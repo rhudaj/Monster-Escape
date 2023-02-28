@@ -19,6 +19,8 @@ You can pick up power ups:
 * Game menu
 * End Screen
 
-##How to Play: 
+## How to Play: 
 
 Use the <kbd>←</kbd> , <kbd>→</kbd> , <kbd>↑</kbd> , <kbd>↓</kbd> arrow keys to move your player
+
+At the end/start of a game you will be prompted to press: `y` to start the game/level or `n` to exit out of the game
