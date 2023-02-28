@@ -21,4 +21,4 @@ You can pick up power ups:
 
 ##How to Play: 
 
-Use the <kbd>⌘F←</kbd> , <kbd>⌘F→</kbd> , <kbd>⌘F↑</kbd> , <kbd>⌘F↓</kbd> arrow keys to move your player
+Use the <kbd>←</kbd> , <kbd>→</kbd> , <kbd>↑</kbd> , <kbd>↓</kbd> arrow keys to move your player
